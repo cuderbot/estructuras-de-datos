@@ -12,4 +12,4 @@ sip, otro repositorio mas en donde se implementan estructuras de datos
 # Como ejecutarlo
 
 | Lenguaje  | Pasos |
-| Python    | python3 implementacion/python/menu.py |
+| Python    | python3 implementacion/python/main.py |
