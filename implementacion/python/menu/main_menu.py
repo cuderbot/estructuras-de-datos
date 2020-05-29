@@ -2,6 +2,7 @@
 from . import sep, option_not_valid, get_option
 from .stack import menu_stack
 from .queue import menu_queue
+from .linked_list import menu_linked_list
 
 
 def create_menu():
@@ -26,6 +27,7 @@ def create_menu():
     options = {
       1: menu_stack,
       2: menu_queue,
+      3: menu_linked_list
     }
 
     sub_menu = options.get(choice, option_not_valid)

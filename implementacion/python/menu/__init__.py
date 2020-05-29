@@ -10,4 +10,3 @@ def get_option():
     choice = 0
   finally:
     return choice
-
